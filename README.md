@@ -1,32 +1,49 @@
-Mohammad
-Backend Developer | Python & FastAPI
+<p align="center">
+  <img src="./assets/github-animation.gif" width="750">
+</p>
 
-────────────────────────────
+<h1 align="center">Hi, I'm Mohammad 👋</h1>
 
-👋 About Me
+<p align="center">
+  Backend Developer | Python & FastAPI
+</p>
 
-I'm a Computer Engineering student focused on
-backend development and gradually moving toward
-Machine Learning and AI.
+<p align="center">
+  Building backend systems and exploring Machine Learning & AI.
+</p>
 
-🛠 Tech Stack
+---
 
-Python    FastAPI    SQL
-Git       Linux      REST API
+## 🛠 Tech Stack
 
-🚀 Projects
+<p align="center">
 
-Customer Ticket System
-SnipLink
-...
+🐍 Python &nbsp;&nbsp;
+⚡ FastAPI &nbsp;&nbsp;
+🗄 SQL &nbsp;&nbsp;
+🧪 Pytest &nbsp;&nbsp;
+🐧 Linux &nbsp;&nbsp;
+🤖 Machine Learning
 
-📚 Currently Learning
+</p>
 
-• Advanced Python
-• FastAPI & Backend Architecture
-• Testing with Pytest
-• Machine Learning
+---
 
-📫 Connect with me
+## 🚀 Featured Projects
 
-GitHub | LinkedIn | Telegram
+### 🎫 Customer Ticket System
+FastAPI-based support ticket system with JWT authentication,
+role-based access and testing.
+
+### 🔗 SnipLink
+URL shortener built with FastAPI and MySQL.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python
+- FastAPI & Backend Architecture
+- Testing with Pytest
+- NumPy & Pandas
+- Machine Learning
