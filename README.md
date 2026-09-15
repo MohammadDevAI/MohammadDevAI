@@ -1,16 +1,32 @@
-## Hi there 👋
+Mohammad
+Backend Developer | Python & FastAPI
 
-<!--
-**MohammadDevAI/MohammadDevAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────
 
-Here are some ideas to get you started:
+👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student focused on
+backend development and gradually moving toward
+Machine Learning and AI.
+
+🛠 Tech Stack
+
+Python    FastAPI    SQL
+Git       Linux      REST API
+
+🚀 Projects
+
+Customer Ticket System
+SnipLink
+...
+
+📚 Currently Learning
+
+• Advanced Python
+• FastAPI & Backend Architecture
+• Testing with Pytest
+• Machine Learning
+
+📫 Connect with me
+
+GitHub | LinkedIn | Telegram
